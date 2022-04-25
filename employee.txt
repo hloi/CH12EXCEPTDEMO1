@@ -1,0 +1,4 @@
+Argon,John,Operations,50000
+Williams,Jane,Marketing,sixty_thousand
+Uminum,Al,Finance,70000
+Jones,Ellen,Sales,80000
